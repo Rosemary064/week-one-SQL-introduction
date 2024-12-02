@@ -1,0 +1,1 @@
+SQL (Structured Query Language) is a powerful language used to interact with relational databases. It allows users to manage and manipulate data by using different types of commands. SQL is essential for querying relational databases, ensuring data integrity, and managing the structure and security of the database.
