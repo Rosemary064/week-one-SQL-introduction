@@ -1,1 +1,0 @@
-# week-one-SQL-introduction
